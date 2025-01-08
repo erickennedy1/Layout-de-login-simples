@@ -1,0 +1,59 @@
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Sistema de Login Simples.exe.config
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Sistema de Login Simples.exe
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Sistema de Login Simples.pdb
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\EntityFramework.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\EntityFramework.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema de Login Simples.csproj.AssemblyReference.cache
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema_de_Login_Simples.Form1.resources
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema_de_Login_Simples.Properties.Resources.resources
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema de Login Simples.csproj.GenerateResource.cache
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema de Login Simples.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema .421BAB48.Up2Date
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema de Login Simples.exe
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema de Login Simples.pdb
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Guna.UI2.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\RestSharp.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Buffers.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.CodeDom.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Memory.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Text.Json.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.ValueTuple.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\RestSharp.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Buffers.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.CodeDom.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Memory.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Text.Json.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.ValueTuple.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\LibVLCSharp.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\LibVLCSharp.WinForms.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\LibVLCSharp.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\LibVLCSharp.WinForms.xml
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema de Login Simples.csproj.ResolveComReference.cache
+C:\Users\Eric\Documents\Portfolio 2025\Sistema de Login Simples\Sistema de Login Simples\Sistema de Login Simples\obj\Debug\Sistema_de_Login_Simples.Form2.resources
